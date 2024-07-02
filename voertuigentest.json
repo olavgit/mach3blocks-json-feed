@@ -1,0 +1,38 @@
+{
+  "tags": [
+    {
+      "name": "Productgroep",
+      "tags": {
+        "101": "Voorbeld A",
+        "102": "Voorbeeld B",
+        "103": "Voorbeeld C",
+        "104": "Voorbeeld D"
+      }
+    }
+  ],
+  "items": [
+    {
+      "name": "Beco - GIGANT 140",
+      "slug": "beco-gigant-140",
+
+      "tags": [101, 103],
+
+      "fields": {
+        "product_groep": "Dumper",
+        "bouwjaar": "1995",
+        "referentie_nummer": "1863",
+        "prijs": "6.000,95",
+        "hoofdfoto": "<img loading=\"lazy\" src=\"https://plus.unsplash.com/premium_photo-1664870882431-2735d1bac590?q=80&w=5187&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" alt=\"\">",
+        "galerij": [
+          "<img loading=\"lazy\" src=\"https://plus.unsplash.com/premium_photo-1664870882431-2735d1bac590?q=80&w=5187&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" alt=\"\">",
+          "<img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1718489211836-65a20ad6bd8d?q=80&w=3333&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" alt=\"\">",
+          "<img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1718619578357-f3825be21d50?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" alt=\"\">"
+        ],
+        "specificaties": "<strong>Merk:</strong> Beco, Type: GIGANT 140, Bouwjaar: 1995, Referentie nummer: 1863, Prijs: 6.000,95, Categorie: Dumper",
+
+        "asconfiguratieFoto": "<svg></svg>",
+        "asconfiguratie": "<strong>As 1 (achter): vering: Lucht, remmen: schrijfremmen<br><strong>As 2 (achter): vering: Lucht, remmen: schrijfremmen"
+      }
+    }
+  ]
+}
